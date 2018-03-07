@@ -1,0 +1,21 @@
+body{
+	background-image: repeating-linear-gradient(to bottom, lightyellow 1%, yellow 12%);
+
+	height: 95vh;
+}
+
+.header .brand-logo{
+	width: 140px;
+	height: 70px;
+	border: 1px solid black;
+	color: white;
+	padding: 20px;
+	border-radius: 75%;
+    background-color: blue;
+    font-size: 12px;
+}
+
+.header{
+	    margin-top: 10px;
+	    margin-left: 2px;
+}
